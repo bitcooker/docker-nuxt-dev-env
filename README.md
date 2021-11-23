@@ -1,4 +1,4 @@
-# Nuxt JS Development Environment With Docker Compose
+# NuxtJS Development Environment Using Docker
 
 [![Docker Image CI](https://github.com/ifaniqbal/docker-nuxt-dev-environment/actions/workflows/docker-image.yml/badge.svg)](https://github.com/ifaniqbal/docker-nuxt-dev-environment/actions/workflows/docker-image.yml)
 
