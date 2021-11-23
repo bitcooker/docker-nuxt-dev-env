@@ -1,5 +1,7 @@
 # Nuxt JS Development Environment With Docker Compose
 
+[![Docker Image CI](https://github.com/ifaniqbal/docker-nuxt-dev-environment/actions/workflows/docker-image.yml/badge.svg)](https://github.com/ifaniqbal/docker-nuxt-dev-environment/actions/workflows/docker-image.yml)
+
 ## Installation
 
 ```sh
